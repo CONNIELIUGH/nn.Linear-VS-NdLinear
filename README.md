@@ -10,4 +10,4 @@ Conclusion:
 
 
 
-# Overall, NdLinear is more useful when working with higher-dimensional data because it preserves structural relationships between dimensions. I am looking forward to applying NdLinear in future projects!
+## Overall, NdLinear is more useful when working with higher-dimensional data because it preserves structural relationships between dimensions. I am looking forward to applying NdLinear in future projects!
